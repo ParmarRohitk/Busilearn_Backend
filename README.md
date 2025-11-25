@@ -1,6 +1,6 @@
 # <h1>E-Learning Platform for the Business Category</h1>
 
-E-Learning Platform (under construction): <a href="https://busilearn.vercel.app/">Live E-Learning</a> 
+E-Learning Platform (under construction): <a href="https://busilearn-backend-new.vercel.app/">Live E-Learning</a> 
 
 <h3>🤝 collaboration welcome</h3>
 
@@ -27,8 +27,11 @@ The e-learning platform is a web-based application that allows users to access c
 - Wide range of business-related courses to choose from, covering a variety of topics and skills
 - Opportunity for instructors to share their expertise and reach a wider audience
 - Customized learning plans to help users achieve their specific goals and succeed in the business world
+<<<<<<< HEAD
 
 
 
 
 - https://e-learning-backend-five.vercel.app/
+=======
+>>>>>>> bf6e39330249f8d3d7f96e19565a2ddeea058ee9
